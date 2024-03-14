@@ -61674,7 +61674,7 @@ s.l()
 this.MU()},
 P(a){var s=null,r=A.GR(),q=this.e
 q===$&&A.d()
-return A.i5(r.dx,A.fd(A.aeM(A.nJ(A.a([A.dB("assets/images/logo_shiba.png",B.v,s,s,s),B.BH,A.dB("assets/images/logo_info.png",B.v,s,s,s),B.BH,A.dB("assets/images/logo_haifauni.png",B.v,s,s,s)],t.p),B.c5,B.f2,B.cm),q),s,s))}}
+return A.i5(r.dy,A.fd(A.aeM(A.nJ(A.a([A.dB("assets/images/logo_shiba.png",B.v,s,s,s),B.BH,A.dB("assets/images/logo_info.png",B.v,s,s,s),B.BH,A.dB("assets/images/logo_haifauni.png",B.v,s,s,s)],t.p),B.c5,B.f2,B.cm),q),s,s))}}
 A.a4W.prototype={
 $1(a){A.lQ(B.Gk,new A.a4V(this.a),t.P)},
 $S:7}
